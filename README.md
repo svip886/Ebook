@@ -1,5 +1,5 @@
 # Ebook
-在github上看到的感觉比较好的书
+在GitHub上看到的感觉比较好的书
 
 <details>
   <summary>物联网</summary>
